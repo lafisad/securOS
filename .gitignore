@@ -1,0 +1,44 @@
+build/
+*.o
+*.bin
+*.elf
+*.iso
+
+# Object files
+*.obj
+*.ko
+*.so
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS specific
+Thumbs.db
+.directory
+
+# Backup files
+*.bak
+*.backup
+*~
